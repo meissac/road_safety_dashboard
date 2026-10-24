@@ -1,0 +1,54 @@
+{
+  "raw_rows": {
+    "caract": 327628,
+    "lieux": 359512,
+    "vehicules": 559847,
+    "usagers": 745158
+  },
+  "duplicate_accident_ids": 0,
+  "exact_duplicate_user_rows": 164,
+  "metro_accidents_with_invalid_coords": 4,
+  "lieux_extra_rows_dropped_by_year": {
+    "2023": 16038,
+    "2024": 15846
+  },
+  "accidents_without_road_info": 0,
+  "vehicle_duplicate_keys": 0,
+  "users_without_matching_vehicle": 0,
+  "users_with_unknown_severity": 419,
+  "users_with_invalid_or_missing_age": 11323,
+  "users_without_matching_accident": 0,
+  "accidents_with_zero_victims": 0,
+  "totals_by_year": {
+    "2019": {
+      "victims": 77663,
+      "killed": 3498,
+      "accidents": 58840
+    },
+    "2020": {
+      "victims": 62028,
+      "killed": 2780,
+      "accidents": 47744
+    },
+    "2021": {
+      "victims": 74045,
+      "killed": 3219,
+      "accidents": 56518
+    },
+    "2022": {
+      "victims": 72791,
+      "killed": 3550,
+      "accidents": 55302
+    },
+    "2023": {
+      "victims": 72272,
+      "killed": 3398,
+      "accidents": 54822
+    },
+    "2024": {
+      "victims": 72267,
+      "killed": 3432,
+      "accidents": 54402
+    }
+  }
+}

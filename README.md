@@ -7,8 +7,8 @@ user check every verdict with filters.
 *EFREI Paris, Data Visualisation individual project, #EFREIDataStories2026*
 *Author: Meïssa CHINI (20230315, BIA)*
 
-**Live app:** _to be added after deployment_
-**Demo video:** _to be added_
+**Live app:** (https://roadsafetydashboard-7yggqcxdhwenrgkn3rpyxg.streamlit.app/?embed_options=dark_theme,show_toolbar)
+**Demo video:** https://drive.google.com/file/d/13WmaNMLiN1FCbhkq1ZpLqUozRmOSmvT-/view?usp=sharing
 
 ---
 
